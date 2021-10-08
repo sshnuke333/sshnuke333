@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=0769AD)
