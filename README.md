@@ -3,8 +3,11 @@
 ### Hello World 👋
 
 - 🌱 I’m currently learning Typescript and Redux.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikhilbhargav)
 - 😄 Pronouns: 'He' | 'Him'
+- 📫 Reach me via:
+
+  <a href='https://www.linkedin.com/in/nikhilbhargav' target='_blank'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
+  <a href='mailto:sshnuke@protonmail.com&subject=Hello%20from%20github'> <img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white'>
 
 ## Languages, Frameworks, Libraries and Tools
 
