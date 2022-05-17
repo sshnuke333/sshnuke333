@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-- 🌱 I’m currently learning Typescript and Next.js.
+- 🌱 I’m currently learning Remix.
 - 😄 Pronouns: 'He' | 'Him'
 - 📫 Reach me via:
 
@@ -12,6 +12,7 @@
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
