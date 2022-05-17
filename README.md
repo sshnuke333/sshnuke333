@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-- 🌱 I’m currently learning Remix.
+- 🌱 I’m currently learning Remix and Express.
 - 😄 Pronouns: 'He' | 'Him'
 - 📫 Reach me via:
 
@@ -25,11 +25,11 @@
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88)
 ![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)
 ![Styled Components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styled-components)
+![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)
+![Testing Library](https://img.shields.io/badge/testing%20library-black?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Material UI](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code)
