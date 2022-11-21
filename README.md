@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-- 🌱 I’m currently learning Express and docker.
+- 🌱 I’m currently learning Express and Docker.
 - 😄 Pronouns: 'He' | 'Him'
 - 📫 Reach me via:
 
@@ -18,10 +18,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
 
-## Frameworks and Tools
+## Libraries and Tools
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 ![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=react-router)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88)
@@ -32,5 +31,10 @@
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=Cypress)
 ![Material UI](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+
+## Database
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
+
 
