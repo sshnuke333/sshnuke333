@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-- 🌱 I’m currently learning mongoDB and Docker.
+- 🌱 I’m currently learning ![Remix](https://img.shields.io/badge/Remix-black?style=plastic&logo=remix&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-black?style=plastic&logo=rust&logoColor=white) and ![Docker](https://img.shields.io/badge/Docker-black?style=plastic&logo=docker&logoColor=#2496ED).
 - 😄 Pronouns: 'He' | 'Him'
 - 📫 Reach me via:
 
@@ -17,6 +17,7 @@
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Libraries and Tools
 
