@@ -6,13 +6,14 @@
 - 😄 Pronouns: 'He' | 'Him'
 - 📫 Reach me via:
 
-  <a href='https://www.linkedin.com/in/nikhilbhargav'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
-  <a href='mailto:sshnuke@protonmail.com&subject=Hello%20from%20github'> <img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white'>
+  <a href='https://www.linkedin.com/in/nikhilbhargav'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'> </a>
+  <a href='mailto:sshnuke@protonmail.com&subject=Hello%20from%20github'> <img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white' alt='proton mail logo' > </a>
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
@@ -22,6 +23,7 @@
 ## Libraries and Tools
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88)
@@ -38,3 +40,4 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis)
