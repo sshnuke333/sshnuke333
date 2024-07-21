@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-- 🌱 I’m currently learning ![Remix](https://img.shields.io/badge/Remix-black?style=plastic&logo=remix&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-black?style=plastic&logo=rust&logoColor=white) and ![Docker](https://img.shields.io/badge/Docker-black?style=plastic&logo=docker&logoColor=#2496ED).
+- 🌱 I’m currently learning ![Rust](https://img.shields.io/badge/Rust-black?style=plastic&logo=rust&logoColor=white) and ![Docker](https://img.shields.io/badge/Docker-black?style=plastic&logo=docker&logoColor=#2496ED).
 - 😄 Pronouns: 'He' | 'Him'
 - 📫 Reach me via:
 
@@ -24,6 +24,7 @@
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![Svelte](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88)
